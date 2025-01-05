@@ -65,4 +65,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-Feel free to add more sections or details as needed. Happy coding! 🎉
